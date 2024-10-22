@@ -125,7 +125,15 @@ function sumToN(n) {
 **Pseudocode**:
 
 ```
+function factorial(number) {
+  let result = 1 (base number)
+  for (make i = 1; when i is less than the number, add 1 to i) {
+    result(1) multiply by i every iteration;
+  }
+  return the final factorial
+}
 
+console.log(factorial(number));
 ```
 
 **JavaScript**:

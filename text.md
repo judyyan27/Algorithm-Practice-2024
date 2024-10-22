@@ -1,3 +1,5 @@
+#### This is the selection:
+
 ```javascript
 function returnInput(input) {
   let output;
@@ -14,7 +16,7 @@ function returnInput(input) {
 }
 ```
 
-This is the selection
+#### This is the iteration:
 
 ```javascript
 for (let i = 0; i <= random; i++) {
@@ -28,13 +30,7 @@ for (let i = 0; i <= random; i++) {
 }
 ```
 
-This is the iteration
-
-```javascript
-
-```
-
-This is the sequencing
+#### This shows an algorithm:
 
 ```javascript
 function getHistory() {
@@ -61,5 +57,3 @@ function getHistory() {
     );
   }
 ```
-
-This is the algorithm

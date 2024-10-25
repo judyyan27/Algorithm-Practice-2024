@@ -9,7 +9,7 @@ function toDecimal(binary) {
   let dec = 0;
   b = binary.reverse;
   console.log(b);
-  for (let i = 0; i <= 8; i++) {
+  for (let i = 0; i <= binary.length; i++) {
     if (binary[binary.length - i] === "1") {
       dec = dec + num[i];
     }
